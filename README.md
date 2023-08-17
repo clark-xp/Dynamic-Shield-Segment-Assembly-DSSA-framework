@@ -1,7 +1,7 @@
 # Dynamic-Shield-Segment-Assembly-DSSA-framework
 
 
-##########  TIPS FOR SOFTWARE USAGE  ##########
+##########  TIPS FOR SOFTWARE USAGE  ##########  
 
 Due to file size limitations on GitHub, downloading the DSSA file from GitHub may cause the DSSA Module.exe inside the DSSA folder to become invalid. You can solve this issue by following these steps:
 1. Download the entire DSSA folder from GitHub to your local computer.
@@ -12,7 +12,7 @@ If you have any questions related to software usage, please contact us via email
 
 
 
-##########  使用须知  ##########
+##########  使用须知  ##########  
 
 由于github有文件大小的限制，用户从Github中下载DSSA文件时，会导致DSSA文件夹里面的DSSA Module.exe失效。可以通过以下方法解决：
 1. 先下载整个DSSA文件夹到本地电脑上；
