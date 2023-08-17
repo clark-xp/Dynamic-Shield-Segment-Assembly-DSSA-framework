@@ -19,6 +19,6 @@ If you have any questions related to software usage, please contact us via email
 2. 进入Github里面的DSSA文件夹，单独选中里面的DSSA Module.exe文件，直接下载下来，放到本地电脑的DSSA文件夹中；  
 3. 在本地电脑上运行DSSA Module.exe   
       
-如果可以有软件使用上的问题，可以联系邮箱：clark_xp@qq.com
+如果有软件使用的问题，可以联系邮箱：clark_xp@qq.com
 
 
