@@ -20,7 +20,7 @@ If you have any questions related to software usage, please contact us via email
   
 ##########  使用须知  ##########  
     
-由于github有文件大小的限制，用户从Github中下载DSSA文件时，会导致DSSA文件夹里面的DSSA Module.exe失效。可以通过以下方法解决：
+由于github有文件大小的限制，用户从Github中下载DSSA文件时，会导致DSSA文件夹里面的DSSA Module.exe失效。可以通过以下方法解决：  
 方法一： 
 1) 直接下载"DSSA.zip"文件； 
 2) 在电脑本地解压； 
