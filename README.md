@@ -26,8 +26,8 @@ If you have any questions related to software usage, please contact us via email
 2) 在电脑本地解压； 
 3) 在本地电脑上运行DSSA Module.exe    
 
-方法二： 
-1). 先下载整个DSSA文件夹到本地电脑上；  
+方法二：      
+1). 先下载整个DSSA文件夹到本地电脑上；    
 2). 进入Github里面的DSSA文件夹，单独选中里面的DSSA Module.exe文件，直接下载下来，放到本地电脑的DSSA文件夹中；  
 3). 在本地电脑上运行DSSA Module.exe   
       
