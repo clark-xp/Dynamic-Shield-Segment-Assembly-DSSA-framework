@@ -4,11 +4,9 @@
 ##########  TIPS FOR SOFTWARE USAGE  ##########  
 
 Due to file size limitations on GitHub, downloading the DSSA file from GitHub may cause the DSSA Module.exe inside the DSSA folder to become invalid. You can solve this issue by following these steps:  
-1. Method 1     
+1. Method 1                       
 1). Download the "DSSA.zip" file to your local computer.
-          
 2). Unzip this file on the local computer.            
-
 3). Run DSSA Module.exe on your local computer.                 
 
 3. Method 2     
